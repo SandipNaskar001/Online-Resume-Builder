@@ -1,4 +1,4 @@
-export const BASE_URL= 'https://online-resume-builder-6i78.onrender.com'
+export const BASE_URL= 'https://online-resume-builder-6i78.onrender.com';    //export const BASE_URL= 'http://localhost:3000' for deployment i change the url
 
 export const API_PATHS = {
   AUTH: {
